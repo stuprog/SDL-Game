@@ -1,4 +1,5 @@
-# Flying plane SDL2 animation
+# SDL2 game animation -LIMITLESS
+![image](https://user-images.githubusercontent.com/69085906/168177859-ea2c8875-bd9b-4c37-8d72-9f443d10d3ce.png)
 
 This project is written in C and uses [CMake][] as a build system.<br>
 It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
