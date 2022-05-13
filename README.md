@@ -22,7 +22,18 @@ The project was developed by:
 - [Amine Ben Hassouna](https://github.com/aminosbh)
 - [Sami Chakroun](https://github.com/stuprog)
 - [Anis Mahmoud](https://github.com/Aniswashere)
+## Contributing
+We appreciate your interest in our porject.You have many ways to contribute:
+- Source Code
+- Unit tests
+- Bug Reports
+- Documentation
+- Localization
+- Etc
 
+If you have a new feature idea or if you find an error don't hesitate to do a pull request.
+
+All contributions need to be under the Mit license terms [MIT](LICENSE).
 ## Dependencies
 - [Git][]
 - C Compiler (gcc, ...)
