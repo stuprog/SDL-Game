@@ -11,8 +11,19 @@ project name, the new executable name and the new git repository, but you can
 keep the autodetected values. Finally, just commit and push the result to your
 repository.
 
-## Dependencies
+## Description 
+![game screen](https://user-images.githubusercontent.com/69085906/168328038-cd0e8034-7eba-4be5-a663-a8a2dc701d61.png)
 
+In my Freshman year we developed this game which was part of the ISS Course project at the Mediterranean 
+Institue of Technology (Medtech). The concept of the game that The player will play with a hero character and he will fight enemies to survive. After, he finished the first map he will go throw a portal to go to the next map.
+
+## Authors / Original developers
+The project was developed by:
+-[Amine Ben Hassouna](https://github.com/aminosbh)
+-[Sami Chakroun](https://github.com/stuprog)
+-[Anis Mahmoud](https://github.com/Aniswashere)
+
+## Dependencies
 - [Git][]
 - C Compiler (gcc, ...)
 - [CMake][]
