@@ -28,7 +28,7 @@ sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 
 ```sh
 # Clone this repo
-git clone https://gitlab.com/aminosbh/flying-plane-sdl-animation.git
+git clone https://github.com/stuprog/SDL-Game.git
 cd flying-plane-sdl-animation
 
 # Create a build folder
