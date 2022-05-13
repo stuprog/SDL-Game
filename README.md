@@ -19,9 +19,9 @@ Institue of Technology (Medtech). The concept of the game that The player will p
 
 ## Authors / Original developers
 The project was developed by:
--[Amine Ben Hassouna](https://github.com/aminosbh)
--[Sami Chakroun](https://github.com/stuprog)
--[Anis Mahmoud](https://github.com/Aniswashere)
+- [Amine Ben Hassouna](https://github.com/aminosbh)
+- [Sami Chakroun](https://github.com/stuprog)
+- [Anis Mahmoud](https://github.com/Aniswashere)
 
 ## Dependencies
 - [Git][]
@@ -76,6 +76,9 @@ See [IDE_USAGE.md](IDE_USAGE.md) for details.
 ## License
 
 Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
+
+- [Sami Chakroun](https://github.com/stuprog)
+- [Anis Mahmoud](https://github.com/Aniswashere)
 
 This project is distributed under the terms of the MIT license
 [&lt;LICENSE&gt;](LICENSE).
